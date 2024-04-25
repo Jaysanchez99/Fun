@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner Keyboard = new Scanner(System.in);
         int num1, num2;
-        String equation, operation;
+        String operation;
         System.out.println("Welcome to the calculator app.");
         while(true){
             try{
